@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="67529" started-at="2018-10-07T17:22:31Z" finished-at="2018-10-07T17:23:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="67529" started-at="2018-10-07T17:22:31Z" finished-at="2018-10-07T17:23:39Z">
+      <class name="Carguru">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Carguru@1b68ddbd]" name="setup" is-config="true" duration-ms="13864" started-at="2018-10-07T17:22:31Z" finished-at="2018-10-07T17:22:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verfiyTitleOfCars()[pri:1, instance:Carguru@1b68ddbd]" name="verfiyTitleOfCars" duration-ms="113" started-at="2018-10-07T17:22:45Z" finished-at="2018-10-07T17:22:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verfiyTitleOfCars -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Carguru@1b68ddbd]" name="tearDown" is-config="true" duration-ms="814" started-at="2018-10-07T17:22:45Z" finished-at="2018-10-07T17:22:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:Carguru@1b68ddbd]" name="setup" is-config="true" duration-ms="9461" started-at="2018-10-07T17:22:46Z" finished-at="2018-10-07T17:22:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="SearchCarsForAZipCode()[pri:2, instance:Carguru@1b68ddbd]" name="SearchCarsForAZipCode" duration-ms="13707" started-at="2018-10-07T17:22:56Z" finished-at="2018-10-07T17:23:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchCarsForAZipCode -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Carguru@1b68ddbd]" name="tearDown" is-config="true" duration-ms="789" started-at="2018-10-07T17:23:09Z" finished-at="2018-10-07T17:23:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:Carguru@1b68ddbd]" name="setup" is-config="true" duration-ms="10735" started-at="2018-10-07T17:23:10Z" finished-at="2018-10-07T17:23:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="titleOfSearchPageByZipCode()[pri:3, instance:Carguru@1b68ddbd]" name="titleOfSearchPageByZipCode" duration-ms="17197" started-at="2018-10-07T17:23:21Z" finished-at="2018-10-07T17:23:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleOfSearchPageByZipCode -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Carguru@1b68ddbd]" name="tearDown" is-config="true" duration-ms="804" started-at="2018-10-07T17:23:38Z" finished-at="2018-10-07T17:23:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Carguru -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
